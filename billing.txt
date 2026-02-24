@@ -1,2 +1,0 @@
-Hi this is a billing related file.
-All the billing is being calculated every month.
