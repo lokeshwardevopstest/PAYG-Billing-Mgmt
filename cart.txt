@@ -1,3 +1,0 @@
-1. Hi, this is for car purpose.
-2. Here we can add items which we wish to buy.
-3. Later we can delete them too.
